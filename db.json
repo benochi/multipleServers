@@ -1,0 +1,14 @@
+{
+  "todos": [
+    {
+      "id": 1,
+      "task": "Learn Rust",
+      "completed": false
+    },
+    {
+      "id": 2,
+      "task": "Build a todo app",
+      "completed": true
+    }
+  ]
+}
