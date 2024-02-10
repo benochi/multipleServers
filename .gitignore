@@ -24,3 +24,13 @@ Thumbs.db
 .vscode/
 .idea/
 *.swp
+# Rust-specific
+/target/
+
+# Compiled files
+**/*.o
+**/*.so
+**/*.rlib
+**/*.dll
+**/*.dylib
+
