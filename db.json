@@ -1,14 +1,1 @@
-{
-  "todos": [
-    {
-      "id": 1,
-      "task": "Learn Rust",
-      "completed": false
-    },
-    {
-      "id": 2,
-      "task": "Build a todo app",
-      "completed": true
-    }
-  ]
-}
+{"todos":[{"id":1,"task":"Build a todo app","completed":true},{"id":2,"task":"Task 2","completed":false},{"id":3,"task":"task 3","completed":false},{"id":4,"task":"Task 4","completed":false}]}

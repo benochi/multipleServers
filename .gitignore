@@ -34,3 +34,10 @@ Thumbs.db
 **/*.dll
 **/*.dylib
 
+# Ignore target directory
+/target/
+
+# Exclude build artifacts
+**/*.d
+**/*.exe
+**/*.pdb
